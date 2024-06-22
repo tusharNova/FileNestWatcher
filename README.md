@@ -17,7 +17,7 @@ FileNestWatcher is a Python-based file monitoring tool that automatically upload
 
 1.  Clone the Repository
    ```
-  git clone https://github.com/yourusername/filenestwatcher.git
+  [git clone https://github.com/yourusername/filenestwatcher.git](https://github.com/tusharNova/FileNestWatcher)
   cd filenestwatcher
   ```
 3.  
